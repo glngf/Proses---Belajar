@@ -1,6 +1,13 @@
 # Proses---Belajar
 # Pengalaman Belajar di Dicoding
 
+**14 Februari 2024**<br>
+Pengenalan Ke Logika Pemrograman(Pemrograman Login 101) ( Selesai 100%)
+* Pendahuluan
+* Gerbang Logika
+* Pengenalan Dasar Computational Thinking
+* Penutup
+
 **15 Februari** 2024<br>
 Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software ( Selesai 100%)
 * Memahami Kebutuhan Aplikasi
